@@ -14,3 +14,7 @@
 * **License:** Creative Common, Public Domain
 * **Link:** https://unsplash.com/
 
+## Pexels
+
+* **License:** No attribution, non-commercial use. [License](https://www.pexels.com/photo-license/)
+* **Link:** https://www.pexels.com/
