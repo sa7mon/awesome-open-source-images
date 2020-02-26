@@ -31,3 +31,8 @@
 * **Size:** > 1 million Images
 * **License:** No attribution, commercial use. [License](https://pixabay.com/service/license/)
 * **Link:** https://pixabay.com/
+
+## Negative Space
+
+* **License:** Creative Commons Zero (CC0). [License](https://negativespace.co/license/)
+* **Link:** https://negativespace.co/
